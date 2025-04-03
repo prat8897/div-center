@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/div-centering-playground/static/css/main.e5372f2c.css",
+    "main.js": "/div-centering-playground/static/js/main.6b8fcf2c.js",
+    "static/js/453.c6100eb3.chunk.js": "/div-centering-playground/static/js/453.c6100eb3.chunk.js",
+    "index.html": "/div-centering-playground/index.html",
+    "main.e5372f2c.css.map": "/div-centering-playground/static/css/main.e5372f2c.css.map",
+    "main.6b8fcf2c.js.map": "/div-centering-playground/static/js/main.6b8fcf2c.js.map",
+    "453.c6100eb3.chunk.js.map": "/div-centering-playground/static/js/453.c6100eb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5372f2c.css",
+    "static/js/main.6b8fcf2c.js"
+  ]
+}
